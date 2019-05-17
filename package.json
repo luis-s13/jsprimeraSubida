@@ -1,0 +1,15 @@
+{
+  "name": "entrega-1",
+  "version": "1.0.1",
+  "description": "archivos entrega 1",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis A. Diaz",
+  "license": "ISC"
+}

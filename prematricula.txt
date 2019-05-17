@@ -1,0 +1,4 @@
+Resultado de inscripción 
+El estudiante Santi identificado con cedula 12345678
+ha hecho la preinscripcion en el curso Mineria de datos
+tiene una duracion de 40 horas y un costo en dolares de 100
